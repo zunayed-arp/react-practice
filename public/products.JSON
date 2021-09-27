@@ -1,0 +1,35 @@
+[
+	{
+		
+		"name": "lamia",
+		"profession": "teacher",
+		"house": "mirpur",
+		"salary": 600000,
+		"phone": "01343534250234",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Apu_Biswas_Pic.jpg"
+	},
+	{
+		"name": "tazida",
+		"profession": "teacher",
+		"house": "mirpur",
+		"salary": 600000,
+		"phone": "01343534250234",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Apu_Biswas_Pic.jpg"
+	},
+	{
+		"name": "rafi",
+		"profession": "teacher",
+		"house": "mirpur",
+		"salary": 600000,
+		"phone": "01343534250234",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Apu_Biswas_Pic.jpg"
+	},
+	{
+		"name": "mehzabin",
+		"profession": "teacher",
+		"house": "mirpur",
+		"salary": 600000,
+		"phone": "01343534250234",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Apu_Biswas_Pic.jpg"
+	}
+]
